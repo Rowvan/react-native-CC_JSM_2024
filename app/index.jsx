@@ -4,7 +4,7 @@ import { Link } from 'expo-router'
 import { SafeAreaView } from 'react-native-safe-area-context'
 
 import { images } from "../constants"
-import { CustomButton } from "C:\Users\legob\Desktop\Desktop\Coding Stuff\JavaScript\React Native\react_native_crash_course_jsm_2024\components"
+import { CustomButton } from "../components"
 
 export default function App() {
     return (
